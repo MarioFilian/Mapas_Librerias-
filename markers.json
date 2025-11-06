@@ -1,0 +1,1053 @@
+[
+  {
+    "id": 0,
+    "provincia": "CHIMBORAZO",
+    "canton": "ALAUSI",
+    "parroquia": "ALAUSI",
+    "lat": -2.2051374,
+    "lon": -78.8453576,
+    "librerias": [
+      "BAZAR Y LIBRERIA DINSE Y/ O  EXCLUSIVIDADES CAROLAY",
+      "LIBRERIA ALEXANDRA WDG",
+      "LIBRERIA GABRIELITA",
+      "LIBRERIA GENESIS",
+      "LIBRERIA LA BRUJA",
+      "LIBRERIA MILENIO",
+      "LIBRERIA RELIGIOSA VIRGEN DEL ROSARIO"
+    ],
+    "count": 7
+  },
+  {
+    "id": 1,
+    "provincia": "CHIMBORAZO",
+    "canton": "ALAUSI",
+    "parroquia": "SIBAMBE",
+    "lat": -2.2253349,
+    "lon": -78.8907776,
+    "librerias": [
+      "LIBRERIA CRISTO REY"
+    ],
+    "count": 1
+  },
+  {
+    "id": 2,
+    "provincia": "CHIMBORAZO",
+    "canton": "ALAUSI",
+    "parroquia": "TIXAN",
+    "lat": -2.1514328,
+    "lon": -78.8034029,
+    "librerias": [
+      "CIBER Y LIBRERIA  PRIMICIA",
+      "LIBRERIA  PRIMICIA"
+    ],
+    "count": 2
+  },
+  {
+    "id": 3,
+    "provincia": "CHIMBORAZO",
+    "canton": "CHAMBO",
+    "parroquia": "CHAMBO",
+    "lat": -1.7320661,
+    "lon": -78.5951097,
+    "librerias": [
+      "LIBRERIA HUGGIS",
+      "LIBRERIA HUGGYS",
+      "LIBRERIA LIAM",
+      "LIBRERIA MAXI ESTUDIO",
+      "LIBRERIA SANTIAGO",
+      "LIBRERIA, PAPELERIA Y BAZAR PLANETA ESCOLAR"
+    ],
+    "count": 6
+  },
+  {
+    "id": 4,
+    "provincia": "CHIMBORAZO",
+    "canton": "CHUNCHI",
+    "parroquia": "CHUNCHI",
+    "lat": -2.2897354,
+    "lon": -78.919825,
+    "librerias": [
+      "BAZAR Y LIBRERIA PRIMAVERA",
+      "LIBRERIA ANABEL",
+      "LIBRERIA ESPINOZA",
+      "LIBRERIA HORIZONTE"
+    ],
+    "count": 4
+  },
+  {
+    "id": 5,
+    "provincia": "CHIMBORAZO",
+    "canton": "COLTA",
+    "parroquia": "CAJABAMBA",
+    "lat": -1.7015501,
+    "lon": -78.773049,
+    "librerias": [
+      "LIBRERIA CRISTIANA JEREMIAS 33:3",
+      "LIBRERIA MULTISERVICIOS FAMA",
+      "LIBRERIA Y NOVEDADES YUBRIAN",
+      "LIBRERIA Y PAPELERIA EBEM",
+      "LIBRERIA Y VARIEDADES EL REGALO"
+    ],
+    "count": 5
+  },
+  {
+    "id": 6,
+    "provincia": "CHIMBORAZO",
+    "canton": "CUMANDA",
+    "parroquia": "CUMANDA",
+    "lat": -2.2108666,
+    "lon": -79.103584,
+    "librerias": [
+      "LIBRERIA CORAZON AGRADECIDO",
+      "LIBRERIA NOVEDADES CUMANDA",
+      "LIBRERIA Y BAZAR VALERIA",
+      "LIBRERIA Y FERRETERIA EL VECINO",
+      "LIBRERIA Y MAS GLORITA",
+      "LIBRERIA Y NOVEDADES CUMANDA 2",
+      "LIBRERIA Y PAPELERIA JR"
+    ],
+    "count": 7
+  },
+  {
+    "id": 7,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUAMOTE",
+    "parroquia": "CEBADAS",
+    "lat": -1.9114887,
+    "lon": -78.6435374,
+    "librerias": [
+      "LIBRERIA Y BAZAR CIENTIFICA",
+      "LIBRERIA Y BAZAR ELSITA"
+    ],
+    "count": 2
+  },
+  {
+    "id": 8,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUAMOTE",
+    "parroquia": "GUAMOTE",
+    "lat": -1.9338171,
+    "lon": -78.7110902,
+    "librerias": [
+      "BAZAR Y LIBRERIA ESCOLAR",
+      "BAZAR Y LIBRERIA JESUS DEL GRAN PODER",
+      "CYBER Y LIBRERIA \"JESSICA\"",
+      "INTERNET Y LIBRERIA NARANJO",
+      "LIBRERIA MARTITA",
+      "LIBRERIA Y PAPELERIA \" DYLAN\"",
+      "LIBRERIA Y PAPELERIA DON MARIO",
+      "LIBRERIA Y PAPELERIA LA NUEVA JERUSALEN",
+      "LIBRERIA Y VARIEDADES BLANQUITA"
+    ],
+    "count": 9
+  },
+  {
+    "id": 9,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUAMOTE",
+    "parroquia": "PALMIRA",
+    "lat": -2.0818003,
+    "lon": -78.7306259,
+    "librerias": [
+      "LIBRERIA PAPELERIA Y BAZAR ANANGY"
+    ],
+    "count": 1
+  },
+  {
+    "id": 10,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUANO",
+    "parroquia": "LA MATRIZ",
+    "lat": -1.6077212,
+    "lon": -78.6441195,
+    "librerias": [
+      "INTERNET & LIBRERIA ISMAEL",
+      "LIBRERIA D&S",
+      "LIBRERIA ROSITA MARIA",
+      "LIBRERIA Y PAPELERIA ALISS",
+      "MUNDO DE COLORES LIBRERIA PAPELERIA Y NOVEDADES"
+    ],
+    "count": 5
+  },
+  {
+    "id": 11,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUANO",
+    "parroquia": "SAN ANDRES",
+    "lat": -1.5917396,
+    "lon": -78.7016854,
+    "librerias": [
+      "LIBRERIA LA CRUZ"
+    ],
+    "count": 1
+  },
+  {
+    "id": 12,
+    "provincia": "CHIMBORAZO",
+    "canton": "GUANO",
+    "parroquia": "SAN GERARDO DE PACAICAGUAN",
+    "lat": -1.6380818,
+    "lon": -78.6157904,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA ECONOMICA"
+    ],
+    "count": 1
+  },
+  {
+    "id": 13,
+    "provincia": "CHIMBORAZO",
+    "canton": "PALLATANGA",
+    "parroquia": "PALLATANGA",
+    "lat": -1.9983979,
+    "lon": -78.9655799,
+    "librerias": [
+      "BAZAR LIBRERIA CARRION",
+      "BAZAR Y LIBRERIA MIS NIETOS",
+      "BAZAR Y LIBRERIA MIS NIETOS ",
+      "LIBRERIA APUNTES",
+      "LIBRERIA EL CHAVITO",
+      "LIBRERIA MARIBEL",
+      "MULTISERVICIOS Y LIBRERIA PAQUITO"
+    ],
+    "count": 7
+  },
+  {
+    "id": 14,
+    "provincia": "CHIMBORAZO",
+    "canton": "PENIPE",
+    "parroquia": "PENIPE",
+    "lat": -1.5660072,
+    "lon": -78.531577,
+    "librerias": [
+      "LIBRERIA Y BAZAR PATY"
+    ],
+    "count": 1
+  },
+  {
+    "id": 15,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "LICÃN",
+    "lat": -1.6519025,
+    "lon": -78.7054988,
+    "librerias": [
+      "",
+      "NOVEDADES EN LIBRERIA Y BISUTERIA B Y C ANYURI"
+    ],
+    "count": 2
+  },
+  {
+    "id": 16,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "LIZARZABURU",
+    "lat": -1.6494833,
+    "lon": -78.6701158,
+    "librerias": [
+      "\" LIBRERIA Y PAPELERIA MIEL \"",
+      "DISCARPAP BAZAR, LIBRERIA Y PAPELERIA",
+      "IMARK LIBRERIA",
+      "LIBRERIA - PAPELERIA & CYBER-NET UPAYA",
+      "LIBRERIA ACADEMICA",
+      "LIBRERIA ANTONY",
+      "LIBRERIA BAZAR MARIA JOSE",
+      "LIBRERIA BONY",
+      "LIBRERIA COPY BOOK",
+      "LIBRERIA CRISTIANA ARBOL DE LA VIDA",
+      "LIBRERIA CRISTINA VERBO",
+      "LIBRERIA DON QUIJOTE",
+      "LIBRERIA EDUCATEMAS",
+      "LIBRERIA EL RETAMAL",
+      "LIBRERIA EL SABER",
+      "LIBRERIA EXITO SUCURSAL",
+      "LIBRERIA GEOMUNDO",
+      "LIBRERIA INTERANDINA",
+      "LIBRERIA IP",
+      "LIBRERIA ISRAEL",
+      "LIBRERIA JUNIOR",
+      "LIBRERIA LA CASA DEL LIBRO",
+      "LIBRERIA LOS ALAMOS",
+      "LIBRERIA MAJITOS",
+      "LIBRERIA MARIA AUXILIADORA",
+      "LIBRERIA MATEOS",
+      "LIBRERIA MI PASTOR",
+      "LIBRERIA MI VECINO",
+      "LIBRERIA MUNDO DE COLORES",
+      "LIBRERIA NANCY",
+      "LIBRERIA PAPELERIA Y BAZAR EL TRIANGULO",
+      "LIBRERIA POPULAR",
+      "LIBRERIA SELECTA",
+      "LIBRERIA TECNICA DEL ECUADOR",
+      "LIBRERIA UNIVERSITARIA",
+      "LIBRERIA Y ABARROTES VALENTINA",
+      "LIBRERIA Y BAZAR SHARIK",
+      "LIBRERIA Y PAPELERIA ARCOIRIS",
+      "LIBRERIA Y PAPELERIA CENTRAL PLUS",
+      "LIBRERIA Y PAPELERIA DADITO",
+      "LIBRERIA Y PAPELERIA EL RENACER",
+      "LIBRERIA Y PAPELERIA EXITO",
+      "LIBRERIA Y PAPELERIA GAMA",
+      "LIBRERIA Y PAPELERIA IKONOS",
+      "LIBRERIA Y PAPELERIA INTERANDINA",
+      "LIBRERIA Y PAPELERIA LA COMPETENCIA",
+      "LIBRERIA Y PAPELERIA M&N",
+      "LIBRERIA Y PAPELERIA MABELEN",
+      "LIBRERIA Y PAPELERIA NUEVA GENERACION",
+      "LIBRERIA, PAPELERIA Y BAZAR DISNEY.NET",
+      "LIBRERIA, PAPELERIA Y BAZAR SANTA RITA",
+      "MEGA LIBRERIA",
+      "PRIMICIAS LIBRERIA & PAPELERIA",
+      "SOFY - LIBRERIA Y BAZAR",
+      "SU LIBRERIA Y GRAFICAS BASANTES",
+      "VIVERES Y LIBRERIA DAYANITA"
+    ],
+    "count": 56
+  },
+  {
+    "id": 17,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "MALDONADO",
+    "lat": -1.8050375,
+    "lon": -78.6055362,
+    "librerias": [
+      "BAZAR Y LIBRERIA PAPELITOS",
+      "INTERNET Y LIBRERIA TUKITO",
+      "LIBRERIA BASICA",
+      "LIBRERIA CRISTIAN",
+      "LIBRERIA CRISTO REY",
+      "LIBRERIA DIOSCESANA CRISTO REY",
+      "LIBRERIA EL PROFE",
+      "LIBRERIA LA ECONOMIA",
+      "LIBRERIA LA EXELENCIA",
+      "LIBRERIA MATEO",
+      "LIBRERIA PAPELERIA Y BAZAR NEJEMO",
+      "LIBRERIA Y BAZAR PAPELITOS",
+      "LIBRERIA Y CENTRO DE COMPUTO AMERICANA",
+      "LIBRERIA Y CENTRO DE COMPUTO AMERICANA II",
+      "LIBRERIA Y CENTRO DE COMPUTO LOS ALTARES",
+      "LIBRERIA Y NOVEDADES NICOLE",
+      "LIBRERIA Y PAPALERIA HERMANOS DELGADO",
+      "LIBRERIA Y PAPELERIA CARMITA",
+      "LIBRERIA Y PAPELERIA CHIMBORAZO",
+      "LIBRERIA Y PAPELERIA EL ESTUDIANTE",
+      "LIBRERIA Y PAPELERIA MARVID",
+      "LIBRERIA Y PAPELERIA MUNDO ESCOLAR",
+      "LIBRERIA Y PAÃ‘ALERIA RIOBAMBA",
+      "PAPELITOS LIBRERIA PAPELERIA"
+    ],
+    "count": 24
+  },
+  {
+    "id": 18,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "PUNGALA",
+    "lat": -1.6787544,
+    "lon": -78.6613781,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA EL PROGRESO"
+    ],
+    "count": 1
+  },
+  {
+    "id": 19,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "QUIMIAG",
+    "lat": -1.6768147,
+    "lon": -78.6607528,
+    "librerias": [
+      "LIBRERIA JESSICA"
+    ],
+    "count": 1
+  },
+  {
+    "id": 20,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "RIOBAMBA",
+    "lat": -1.6732765,
+    "lon": -78.6482479,
+    "librerias": [
+      "BAZAR LIBRERIA JEYC STORE",
+      "LIBRERIA LA FE"
+    ],
+    "count": 2
+  },
+  {
+    "id": 21,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "SAN LUIS",
+    "lat": -1.709523,
+    "lon": -78.6441058,
+    "librerias": [
+      "LIBRERIA E INTERNET STORM",
+      "LIBRERIA IDEAL",
+      "LIBRERIA Y PAPELERIA JHOART"
+    ],
+    "count": 3
+  },
+  {
+    "id": 22,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "VELASCO",
+    "lat": -1.8178042,
+    "lon": -78.5931303,
+    "librerias": [
+      "ART LIBRERIA",
+      "BAZAR Y LIBRERIA SARITA",
+      "BAZAR Y LIBRERIA TECNICA",
+      "HC LIBRERIA HOGAR CRISTIANO",
+      "INTERNET-LIBRERIA AMERICA",
+      "LIBRERIA BOLIVARIANA",
+      "LIBRERIA BOLIVARIANA 2",
+      "LIBRERIA BOLIVARIANA II",
+      "LIBRERIA CARLITA",
+      "LIBRERIA CENTRO",
+      "LIBRERIA CLAMOR DE DIOS",
+      "LIBRERIA CRISTIANA DULCE PAZ",
+      "LIBRERIA EL CAMPEON",
+      "LIBRERIA EL DICCIONARIO",
+      "LIBRERIA EL PRIMO",
+      "LIBRERIA ESPIRITUAL LUZ Y VIDA",
+      "LIBRERIA ESTUDIANTIL",
+      "LIBRERIA JUAN MONTALVO",
+      "LIBRERIA LLANGOMA",
+      "LIBRERIA LUZ Y VIDA",
+      "LIBRERIA RIOBAMBA NORTE",
+      "LIBRERIA S.T.A.R",
+      "LIBRERIA UNIVERSAL",
+      "LIBRERIA Y CENTRO DE COMPUTO \"DOCTOR PC\"",
+      "LIBRERIA Y FANTASIAS   SU AMIGA",
+      "LIBRERIA Y PAPELERIA CHIMBORAZO",
+      "LIBRERIA Y PAPELERIA EL ESCRITOR",
+      "LIBRERIA Y PAPELERIA F&Y",
+      "LIBRERIA Y PAPELERIA I.M.C.",
+      "LIBRERIA Y PAPELERIA IMC",
+      "LIBRERIA Y PAPELERIA MARVID",
+      "LIBRERIA Y PAPELERIA TAVO'S",
+      "LIBRERIA Y PAPELERIA TAVO`S",
+      "LIBRERIA Y PAPELERIA URBINA RUIZ",
+      "PAPELERIA LIBRERIA ORIENTAL"
+    ],
+    "count": 35
+  },
+  {
+    "id": 23,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "VELOZ",
+    "lat": -1.6674779,
+    "lon": -78.6536658,
+    "librerias": [
+      "ALFA 2 LIBRERIA",
+      "ALMACEN Y LIBRERIA LITURGICA",
+      "BAZAR Y LIBRERIA EL BAUL DE LOS RECUERDOS",
+      "JO LIBRERIA",
+      "LIBRERIA ANTONY",
+      "LIBRERIA ATLANTIDA",
+      "LIBRERIA CRISTIANA VERBO",
+      "LIBRERIA EL ESTUDIANTE",
+      "LIBRERIA EL ORO",
+      "LIBRERIA JO",
+      "LIBRERIA LOS ANDES",
+      "LIBRERIA MAJOS",
+      "LIBRERIA MAJOS RIOPAPEL",
+      "LIBRERIA NUEVA JERUSALEN",
+      "LIBRERIA PAPELITO",
+      "LIBRERIA POPULAR",
+      "LIBRERIA SABBATH",
+      "LIBRERIA SAN FRANCISCO",
+      "LIBRERIA TOMASITO",
+      "LIBRERIA TUKITO",
+      "LIBRERIA Y BAZAR \"IDEAL\"",
+      "LIBRERIA Y BAZAR VALERIA",
+      "LIBRERIA Y CENTRO DE COMPUTO AMERICANA",
+      "LIBRERIA Y PAPELERIA \"PLANETA ESCOLAR\"",
+      "LIBRERIA Y PAPELERIA ATLANTIDA",
+      "LIBRERIA Y PAPELERIA CHIMBORAZO 2",
+      "LIBRERIA Y PAPELERIA EDICIONES COQUITO RIOBAMBA",
+      "LIBRERIA Y PAPELERIA PRO ESCOLAR",
+      "LIBRERIA Y PAPELERIA SAN ALFONSO"
+    ],
+    "count": 29
+  },
+  {
+    "id": 24,
+    "provincia": "CHIMBORAZO",
+    "canton": "RIOBAMBA",
+    "parroquia": "YARUQUIES",
+    "lat": -1.6894393,
+    "lon": -78.6771891,
+    "librerias": [
+      "LIBRERIA PATITO",
+      "LIBRERIA Y BAZAR PAQUITO",
+      "LIBRERIA Y BAZAR PATITO",
+      "LIBRERIA Y PLASTICOS SAN FRANCISCO"
+    ],
+    "count": 4
+  },
+  {
+    "id": 25,
+    "provincia": "MANABI",
+    "canton": "BOLIVAR",
+    "parroquia": "CALCETA",
+    "lat": -0.8480934,
+    "lon": -80.1640382,
+    "librerias": [
+      "COPIADORA LIBRERIA SAN AGUSTIN",
+      "LIBRERIA JUAN PABLO SEGUNDO",
+      "LIBRERIA PAPELERIA Y NOVEDADES DON OSCAR",
+      "LIBRERIA VERA",
+      "LIBRERIA Y BAZAR CALCETA"
+    ],
+    "count": 5
+  },
+  {
+    "id": 26,
+    "provincia": "MANABI",
+    "canton": "CHONE",
+    "parroquia": "CANUTO",
+    "lat": -0.7991861,
+    "lon": -80.12913,
+    "librerias": [
+      "LIBRERIA MAGGAFER"
+    ],
+    "count": 1
+  },
+  {
+    "id": 27,
+    "provincia": "MANABI",
+    "canton": "CHONE",
+    "parroquia": "CHIBUNGA",
+    "lat": -0.0980576,
+    "lon": -79.8172956,
+    "librerias": [
+      "MINI LIBRERIA EMANUEL"
+    ],
+    "count": 1
+  },
+  {
+    "id": 28,
+    "provincia": "MANABI",
+    "canton": "CHONE",
+    "parroquia": "CHONE",
+    "lat": -0.6990907,
+    "lon": -80.0944512,
+    "librerias": [
+      "LIBRERIA AMERICANA",
+      "LIBRERIA BRITHANY",
+      "LIBRERIA PAPELERIA Y NOVEDADES DON OSCAR",
+      "LIBRERIA PAPELERIA Y NOVEDADES EL LAPICITO",
+      "LIBRERIA Y PAPELERIA DON OSCAR",
+      "LIBRERIA Y PAPELERIA OASIS",
+      "LIBRERIA Y PAPELERIA Z",
+      "LIBRERIA Y PAPELERIA Z2"
+    ],
+    "count": 8
+  },
+  {
+    "id": 29,
+    "provincia": "MANABI",
+    "canton": "CHONE",
+    "parroquia": "SANTA RITA",
+    "lat": -0.70145,
+    "lon": -80.0778805,
+    "librerias": [
+      "LIBRERIA ENTRE LAPIZ Y PAPEL"
+    ],
+    "count": 1
+  },
+  {
+    "id": 30,
+    "provincia": "MANABI",
+    "canton": "EL CARMEN",
+    "parroquia": "4 DE DICIEMBRE",
+    "lat": -0.25018,
+    "lon": -79.487587,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA  RENACER",
+      "LIBRERIA Y PAPELERIA C&N"
+    ],
+    "count": 2
+  },
+  {
+    "id": 31,
+    "provincia": "MANABI",
+    "canton": "EL CARMEN",
+    "parroquia": "EL CARMEN",
+    "lat": -0.2727693,
+    "lon": -79.4615689,
+    "librerias": [
+      "BAZAR Y LIBRERIA CENTRAL",
+      "BAZAR Y LIBRERIA NUEVA GENERACIÃ“N",
+      "CYBER Y LIBRERIA ALLISON",
+      "LIBRERIA ARCOIRIS",
+      "LIBRERIA BEATRIZ",
+      "LIBRERIA EL CARMEN",
+      "LIBRERIA LA MAESTRIA",
+      "LIBRERIA LAPICITOS",
+      "LIBRERIA LUZ DE AMERICA",
+      "LIBRERIA MONILIZ",
+      "LIBRERIA NUEVA GENERACION",
+      "LIBRERIA PALABRITAS DE VIDA",
+      "LIBRERIA PAPEL.COM",
+      "LIBRERIA TANLLY",
+      "LIBRERIA VIRGEN DEL CISNE",
+      "LIBRERIA Y NOVEDADES ZYC",
+      "LIBRERIA Y PAPELERIA CIMAX",
+      "LIBRERIA Y PAPELERIA DIVINO NIÃ‘O",
+      "LIBRERIA Y PAPELERIA EL ESTUDIANTE",
+      "LIBRERIA Y PAPELERIA LA BRAMADORA",
+      "LIBRERIA Y PAPELERIA PATRICIA",
+      "LIBRERIA Y PAPELERIA SAID",
+      "LIBRERIA Y PAPELERIA SAN ANTONIO"
+    ],
+    "count": 23
+  },
+  {
+    "id": 32,
+    "provincia": "MANABI",
+    "canton": "FLAVIO ALFARO",
+    "parroquia": "FLAVIO ALFARO",
+    "lat": -0.4046108,
+    "lon": -79.9049065,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA EL ESTUDIANTE",
+      "LIBRERIA Y PAPELERIA RUALEX"
+    ],
+    "count": 2
+  },
+  {
+    "id": 33,
+    "provincia": "MANABI",
+    "canton": "JAMA",
+    "parroquia": "JAMA",
+    "lat": -0.2025684,
+    "lon": -80.263196,
+    "librerias": [
+      "LIBRERIA NAHON"
+    ],
+    "count": 1
+  },
+  {
+    "id": 34,
+    "provincia": "MANABI",
+    "canton": "JARAMIJO",
+    "parroquia": "JARAMIJO",
+    "lat": -0.9743883,
+    "lon": -80.6134583,
+    "librerias": [
+      "BAZAR Y LIBRERIA DAMARIS",
+      "LIBRERIA ALEXANDRA",
+      "LIBRERIA CARLITA",
+      "LIBRERIA HERMANOS MERO MERO"
+    ],
+    "count": 4
+  },
+  {
+    "id": 35,
+    "provincia": "MANABI",
+    "canton": "JIPIJAPA",
+    "parroquia": "JIPIJAPA",
+    "lat": -1.3482956,
+    "lon": -80.579195,
+    "librerias": [
+      "BAZAR Y LIBRERIA ARIKRIS",
+      "BAZAR Y LIBRERIA GENESIS",
+      "LIBRERIA ARI KRIS",
+      "LIBRERIA ARIKRIS"
+    ],
+    "count": 4
+  },
+  {
+    "id": 36,
+    "provincia": "MANABI",
+    "canton": "JIPIJAPA",
+    "parroquia": "SAN LORENZO DE JIPIJAPA",
+    "lat": -1.3396877,
+    "lon": -80.5805895,
+    "librerias": [
+      "LIBRERIA  EL CID",
+      "LIBRERIA EL ESTUDIANTE",
+      "LIBRERIA GENESIS",
+      "LIBRERIA LIDERES",
+      "LIBRERIA Y BAZAR GENESIS",
+      "LIBRERIA Y PAPELERIA \"LA ECONOMIA DE PAOLITA\"",
+      "LIBRERIA Y PAPELERIA FRANCISCO JAVIER",
+      "LIBRERIA Y PAPELERIA KATTY",
+      "LIBRERIA Y PAPELERIA LA ECONOMICA",
+      "LIBRERIA, PAPELERIA Y BAZAR GENESIS"
+    ],
+    "count": 10
+  },
+  {
+    "id": 37,
+    "provincia": "MANABI",
+    "canton": "JUNIN",
+    "parroquia": "JUNIN",
+    "lat": -0.9261304,
+    "lon": -80.2055648,
+    "librerias": [
+      "LIBRERIA DON PRIMO"
+    ],
+    "count": 1
+  },
+  {
+    "id": 38,
+    "provincia": "MANABI",
+    "canton": "MANTA",
+    "parroquia": "ELOY ALFARO",
+    "lat": -0.9837296,
+    "lon": -80.7055828,
+    "librerias": [
+      "BAZAR Y LIBRERIA JULIPA",
+      "BAZAR Y LIBRERIA MILENA",
+      "BAZAR Y LIBRERIA STEVEN",
+      "LIBRERIA CHIQUI",
+      "LIBRERIA M & M",
+      "TIENDA Y LIBRERIA ROSITA"
+    ],
+    "count": 6
+  },
+  {
+    "id": 39,
+    "provincia": "MANABI",
+    "canton": "MANTA",
+    "parroquia": "LOS ESTEROS",
+    "lat": -0.9585425,
+    "lon": -80.6846573,
+    "librerias": [
+      "BAZAR, LIBRERIA Y NOVEDADES ODALYS",
+      "LIBRERIA - BAZAR ALYSHA Y JOSELYN",
+      "LIBRERIA AILIN",
+      "LIBRERIA BEE",
+      "LIBRERIA CRISTIANA VIDA NUEVA",
+      "LIBRERIA JULESY",
+      "LIBRERIA VEGA VAS",
+      "LIBRERIA Y NOVEDADES EL RINCON DEL ESTUDIANTE",
+      "LIBRERIA Y PAPELERIA AMPARITO",
+      "LIBRERIA Y PAPELERIA KENIA",
+      "MINI LIBRERIA KARINA"
+    ],
+    "count": 11
+  },
+  {
+    "id": 40,
+    "provincia": "MANABI",
+    "canton": "MANTA",
+    "parroquia": "MANTA",
+    "lat": -0.9485853,
+    "lon": -80.7191006,
+    "librerias": [
+      "DISTRIBUIDOR - LIBRERIA CRISTIANA RENACER",
+      "LIBRERIA ANTO",
+      "LIBRERIA ARIKRIS",
+      "LIBRERIA CASTILLO",
+      "LIBRERIA CONTINENTAL",
+      "LIBRERIA CRISTIANA ZION",
+      "LIBRERIA DIDATEN",
+      "LIBRERIA HORIZONTES",
+      "LIBRERIA JEMACI",
+      "LIBRERIA JESUS",
+      "LIBRERIA JURIDICA GARCIA",
+      "LIBRERIA JURIDICA MANTA",
+      "LIBRERIA KARLITA",
+      "LIBRERIA LA NUEVA",
+      "LIBRERIA MEDICA EUROHISPANA",
+      "LIBRERIA PASITOS",
+      "LIBRERIA PRIMICIAS",
+      "LIBRERIA TATIANA",
+      "LIBRERIA Y NOVEDADES DEMERA",
+      "LIBRERIA Y NOVEDADES OFELIA",
+      "LIBRERIA Y NOVEDADES SANLUCMER",
+      "LIBRERIA Y PAPELERIA CITA",
+      "LIBRERIA Y PAPELERIA EL ESTUDIANTE",
+      "LIBRERIA Y PAPELERIA KENIA",
+      "LIBRERIA Y PAPELERIA LA 13",
+      "LIBRERIA Y PAPELERIA LILIBET",
+      "LIBRERIA Y PAPELERIA UNIVERSITARIA",
+      "LIBRERIA Y PAPELERIA YAMILLETTE",
+      "NOVO LIBRERIA Y PAPELERIA"
+    ],
+    "count": 29
+  },
+  {
+    "id": 41,
+    "provincia": "MANABI",
+    "canton": "MANTA",
+    "parroquia": "TARQUI",
+    "lat": -0.9784464,
+    "lon": -80.7243193,
+    "librerias": [
+      "LIBRERIA HORIZONTES",
+      "LIBRERIA ISAAC",
+      "LIBRERIA MADRIGAL DE AMORES",
+      "LIBRERIA NAVI",
+      "LIBRERIA OFELIA",
+      "LIBRERIA PALFORTT",
+      "LIBRERIA SENDEROS",
+      "LIBRERIA TRES HERMANOS",
+      "LIBRERIA Y ARTICULOS DE BAZAR DÂ´ SABIOS",
+      "LIBRERIA Y BAZAR ANDRE",
+      "LIBRERIA Y BAZAR DE COLORES",
+      "LIBRERIA Y PAPELERIA COCO",
+      "LIBRERIA Y PAPELERIA GERMANIA",
+      "LIBRERIA Y PAPELERIA IRIS",
+      "LIBRERIA Y PAPELERIA LORENA",
+      "LIBRERIA Y PAPELERIA LOVE"
+    ],
+    "count": 16
+  },
+  {
+    "id": 42,
+    "provincia": "MANABI",
+    "canton": "MONTECRISTI",
+    "parroquia": "MONTECRISTI",
+    "lat": -1.0504072,
+    "lon": -80.6606834,
+    "librerias": [
+      "LIBRERIA",
+      "LIBRERIA DELGADO",
+      "LIBRERIA LUZ Y VIDA",
+      "LIBRERIA MI PRIMER LIBRO",
+      "LIBRERIA Y PAPELERIA NUEVA VIDA",
+      "PAPELERIA Y LIBRERIA MONTECRISTI",
+      "TIENDA Y LIBRERIA MARIA ISABEL"
+    ],
+    "count": 7
+  },
+  {
+    "id": 43,
+    "provincia": "MANABI",
+    "canton": "PAJAN",
+    "parroquia": "GUALE",
+    "lat": -1.6313023,
+    "lon": -80.238894,
+    "librerias": [
+      "LIBRERIA VALERIA"
+    ],
+    "count": 1
+  },
+  {
+    "id": 44,
+    "provincia": "MANABI",
+    "canton": "PAJAN",
+    "parroquia": "PAJAN",
+    "lat": -1.5540897,
+    "lon": -80.4281703,
+    "librerias": [
+      "BAZAR Y LIBRERIA LA ECONOMICA # 2",
+      "LIBRERIA MUNDO ESCOLAR PAJAN",
+      "LIBRERIA Y PAPELERIA \"LA ECONOMIA DE PAOLITA\"",
+      "LIBRERIA Y PAPELERIA LA ECONOMICA",
+      "MINI LIBRERIA ROSITA"
+    ],
+    "count": 5
+  },
+  {
+    "id": 45,
+    "provincia": "MANABI",
+    "canton": "PEDERNALES",
+    "parroquia": "COJIMIES",
+    "lat": 0.2161005,
+    "lon": -79.8664034,
+    "librerias": [
+      "LIBRERIA LIGIDEEL",
+      "MINI LIBRERIA ARA"
+    ],
+    "count": 2
+  },
+  {
+    "id": 46,
+    "provincia": "MANABI",
+    "canton": "PEDERNALES",
+    "parroquia": "PEDERNALES",
+    "lat": 0.0701577,
+    "lon": -80.0546784,
+    "librerias": [
+      "BAZAR Y LIBRERIA SOFY",
+      "LIBRERIA CRISTIANA CLARA LUZ",
+      "LIBRERIA CUATRO HERMANOS",
+      "LIBRERIA RUTBELK",
+      "LIBRERIA Y PAPELERIA ECONOMICA",
+      "LIBRERIA Y PAPELERIA YOLITA"
+    ],
+    "count": 6
+  },
+  {
+    "id": 47,
+    "provincia": "MANABI",
+    "canton": "PICHINCHA",
+    "parroquia": "BARRAGANETE",
+    "lat": -0.7777118,
+    "lon": -79.6968188,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA DARIAN"
+    ],
+    "count": 1
+  },
+  {
+    "id": 48,
+    "provincia": "MANABI",
+    "canton": "PICHINCHA",
+    "parroquia": "PICHINCHA",
+    "lat": -1.0499301,
+    "lon": -79.8192941,
+    "librerias": [
+      "BAZAR Y LIBRERIA DIN",
+      "BAZAR Y LIBRERIA GREGORY",
+      "LIBRERIA ANITA",
+      "LIBRERIA JESSENIA",
+      "TIENDA Y LIBRERIA DIEGO ARMANDO"
+    ],
+    "count": 5
+  },
+  {
+    "id": 49,
+    "provincia": "MANABI",
+    "canton": "PICHINCHA",
+    "parroquia": "SAN SEBASTIAN",
+    "lat": -1.054711,
+    "lon": -80.0132156,
+    "librerias": [
+      "LIBRERIA Y PAPELERIA MITZELITA"
+    ],
+    "count": 1
+  },
+  {
+    "id": 50,
+    "provincia": "MANABI",
+    "canton": "PORTOVIEJO",
+    "parroquia": "12 DE MARZO",
+    "lat": -1.0601853,
+    "lon": -80.4456456,
+    "librerias": [
+      "",
+      "LIBRERIA ARQUIDIOCESANA",
+      "LIBRERIA CRISTIANA DÂ´VIDA",
+      "LIBRERIA CRISTIANA ISRAEL",
+      "LIBRERIA EXICOR",
+      "LIBRERIA MIGUEL ANGEL",
+      "LIBRERIA MOLINA",
+      "LIBRERIA POBRE SANCHO",
+      "LIBRERIA Y PAPELERIA GINES",
+      "NOVEDADES Y LIBRERIA CRISTIANA EL REDIL"
+    ],
+    "count": 10
+  },
+  {
+    "id": 51,
+    "provincia": "MANABI",
+    "canton": "PORTOVIEJO",
+    "parroquia": "PORTOVIEJO",
+    "lat": -1.05282,
+    "lon": -80.4534134,
+    "librerias": [
+      "LIBRERIA CATOLICA EMMANUEL",
+      "LIBRERIA CRISTIANA ISRAEL",
+      "LIBRERIA ICE"
+    ],
+    "count": 3
+  },
+  {
+    "id": 52,
+    "provincia": "MANABI",
+    "canton": "PUERTO LOPEZ",
+    "parroquia": "MACHALILLA",
+    "lat": -1.4771438,
+    "lon": -80.7667523,
+    "librerias": [
+      "LIBRERIAY BAZAR D JOSITOSÂ´S"
+    ],
+    "count": 1
+  },
+  {
+    "id": 53,
+    "provincia": "MANABI",
+    "canton": "PUERTO LOPEZ",
+    "parroquia": "PUERTO LOPEZ",
+    "lat": -1.5590545,
+    "lon": -80.8112663,
+    "librerias": [
+      "BAZAR Y LIBRERIA HERMANOS DMCC",
+      "LIBRERIA SULLY",
+      "LIBRERIA Y PAPELERIA RODRIGUEZ"
+    ],
+    "count": 3
+  },
+  {
+    "id": 54,
+    "provincia": "MANABI",
+    "canton": "SAN VICENTE",
+    "parroquia": "SAN VICENTE",
+    "lat": -0.5896279,
+    "lon": -80.4084617,
+    "librerias": [
+      "BAZAR LIBRERIA LUCERITO"
+    ],
+    "count": 1
+  },
+  {
+    "id": 55,
+    "provincia": "MANABI",
+    "canton": "SUCRE",
+    "parroquia": "BAHIA DE CARAQUEZ",
+    "lat": -0.5999649,
+    "lon": -80.423572,
+    "librerias": [
+      "BAZAR Y LIBRERIA AZUCENA",
+      "LIBRERIA - PAPELERIA E IMPRENTA EL GLOBO",
+      "LIBRERIA Y PAPELERIA EL GLOBO",
+      "LIBRERIA Y PAPELERIA MIRIAN"
+    ],
+    "count": 4
+  },
+  {
+    "id": 56,
+    "provincia": "MANABI",
+    "canton": "SUCRE",
+    "parroquia": "LEONIDAS PLAZA GUTIERREZ",
+    "lat": -0.6243421,
+    "lon": -80.4263119,
+    "librerias": [
+      "LIBRERIA DENISSE",
+      "LIBRERIA Y BAZAR DENISSE",
+      "LIBRERIA Y PAPELERIA EL GLOBO",
+      "LIBRERIA Y PAPELERIA J V"
+    ],
+    "count": 4
+  },
+  {
+    "id": 57,
+    "provincia": "MANABI",
+    "canton": "SUCRE",
+    "parroquia": "SAN ISIDRO",
+    "lat": -0.3799945,
+    "lon": -80.186629,
+    "librerias": [
+      "TIENDA Y LIBRERIA SONIA"
+    ],
+    "count": 1
+  },
+  {
+    "id": 58,
+    "provincia": "MANABI",
+    "canton": "TOSAGUA",
+    "parroquia": "TOSAGUA",
+    "lat": -0.7850128,
+    "lon": -80.2338219,
+    "librerias": [
+      "LIBRERIA NACIONAL",
+      "LIBRERIA Y PAPELERIA 5 ESQUINAS",
+      "LIBRERIA Y PAPELERIA ANITA",
+      "LIBRERIA Y PAPELERIA AVELLAN",
+      "LIBRERIA Y PAPELERIA DON DAVID",
+      "LIBRERIA Y PAPELERIA DON OSCAR"
+    ],
+    "count": 6
+  }
+]
